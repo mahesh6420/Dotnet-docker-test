@@ -1,7 +1,7 @@
 # Docker Test for dotnet
 
 ## Pre-requisite
-1. [Docker](https://www.docker.com/) Installed
+1. [Docker](https://www.docker.com/) Installed, Latest Version (Version 17.05+)
 
 ## Running Application
 1. docker build --tag:NameOfTheApp .
